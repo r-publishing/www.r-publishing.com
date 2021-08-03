@@ -1,6 +1,6 @@
 #### Coming Soon
 
-<img src="RChainPUBLISHING.jpg" alt="" style="width:350px"/>
+<img src="RChainPUBLISHING.jpg" alt="" style="width:500px"/>
 
 info@r-publishing.com
 
