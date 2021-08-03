@@ -1,5 +1,5 @@
 #### Coming Soon
 
-<img src="RChainPUBLISHING.jpg" alt="" style="height: 100px; width:100px;"/>
+<img src="RChainPUBLISHING.jpg" alt="" style="width:150px"/>
 
 info@r-publishing.com
